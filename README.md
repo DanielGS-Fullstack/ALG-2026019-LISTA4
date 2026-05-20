@@ -1,5 +1,5 @@
 # ALG-2026019-LISTA4
-O aluno deve desenvolver a lista de exercício em linguagem C utilizando o DEV-C++.  1.Crie um repositório PUBLICO no github 2. Resolva os exercícios criando um arquivo ".c" para cada exercício. NÃO É PARA FAZER TODOS OS EXERCÍCIOS EM UM ÚNICO ARQUIVO. 3.Publique os códigos no seu repositório GitHub 4.Preencha o questionário com o link do seu repositório. 
+O aluno deve desenvolver a lista de exercício em linguagem C utilizando o DEV-C++.  1. Crie um repositório PUBLICO no github 2. Resolva os exercícios criando um arquivo ".c" para cada exercício. NÃO É PARA FAZER TODOS OS EXERCÍCIOS EM UM ÚNICO ARQUIVO. 3. Publique os códigos no seu repositório GitHub 4.Preencha o questionário com o link do seu repositório. 
 
 
 Lista de Exercício:
